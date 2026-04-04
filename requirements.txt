@@ -1,0 +1,16 @@
+# Backend
+fastapi
+uvicorn
+
+# Scraping
+requests
+beautifulsoup4
+
+# Email
+python-dotenv
+
+# Scheduling
+schedule
+
+# Optional DB
+sqlalchemy
