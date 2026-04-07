@@ -1,6 +1,8 @@
 # Backend
 fastapi
 uvicorn
+selenium
+webdriver-manager
 
 # Scraping
 requests
