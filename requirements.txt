@@ -16,3 +16,8 @@ schedule
 
 # Optional DB
 sqlalchemy
+
+#streamlit
+streamlit
+
+
